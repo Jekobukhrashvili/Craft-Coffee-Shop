@@ -1,0 +1,146 @@
+export const coffees = [
+  {
+    id: '1',
+    title: 'Espresso',
+    ingredients: ['coffee beans', 'water'],
+    description: 'Strong and bold, pure espresso shot for energy boost.',
+    img: '/Images/espresso.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 3.7
+  },
+  {
+    id: '2',
+    title: 'Mocha',
+    ingredients: ['espresso', 'chocolate', 'steamed milk'],
+    description: 'Chocolate-infused espresso drink with creamy milk layers.',
+    img: '/Images/mocha.png',
+    isInStock: true,
+    combinedIngredientsPrice: 4.7
+  },
+  {
+    id: '3',
+    title: 'Cappuccino',
+    ingredients: ['espresso', 'steamed milk', 'milk foam'],
+    description: 'Classic Italian coffee with balanced foam and espresso.',
+    img: '/Images/cappuccino.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 5.4
+  },
+  {
+    id: '4',
+    title: 'Latte',
+    ingredients: ['espresso', 'steamed milk'],
+    description: 'Smooth and mellow drink with rich milk flavor.',
+    img: '/Images/latte.webp',
+    isInStock: true,
+    combinedIngredientsPrice: 4.7
+  },
+  {
+    id: '5',
+    title: 'Americano',
+    ingredients: ['espresso', 'hot water'],
+    description: 'Diluted espresso creating a lighter, smoother taste.',
+    img: '/Images/americano.webp',
+    isInStock: true,
+    combinedIngredientsPrice: 3.7
+  },
+  {
+    id: '6',
+    title: 'Macchiato',
+    ingredients: ['espresso', 'milk foam'],
+    description: 'Espresso topped with a small amount of foam.',
+    img: '/Images/macchiato.webp',
+    isInStock: true,
+    combinedIngredientsPrice: 4.2
+  },
+  {
+    id: '7',
+    title: 'Flat White',
+    ingredients: ['espresso', 'steamed milk'],
+    description: 'Creamy milk meets bold espresso in perfect balance.',
+    img: '/Images/flat white.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 4.7
+  },
+  {
+    id: '8',
+    title: 'Affogato',
+    ingredients: ['espresso', 'vanilla ice cream'],
+    description: 'Hot espresso poured over cold vanilla ice cream.',
+    img: '/Images/affogato.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 5.5
+  },
+  {
+    id: '9',
+    title: 'Irish Coffee',
+    ingredients: ['coffee', 'whiskey', 'sugar', 'cream'],
+    description: 'Strong coffee mixed with Irish whiskey and cream.',
+    img: '/Images/irish coffee.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 9.3
+  },
+  {
+    id: '10',
+    title: 'Cold Brew',
+    ingredients: ['coarse coffee', 'cold water'],
+    description: 'Smooth, less acidic coffee brewed without heat.',
+    img: '/Images/cold brew.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 3.7
+  },
+   {
+    id: '11',
+    title: 'Iced Mocha',
+    ingredients: ['espresso', 'chocolate', 'cold water'],
+    description: 'Chilled mocha with chocolate and cold water for a refreshing twist.',
+    img: '/Images/iced mocha.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 5.2,
+  },
+  {
+    id: '12',
+    title: 'Sweet Latte',
+    ingredients: ['espresso', 'steamed milk', 'sugar'],
+    description: 'Mild latte with an extra touch of sweetness.',
+    img: '/Images/sweet latte.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 5,
+  },
+  {
+    id: '13',
+    title: 'Cinnamon Cappuccino',
+    ingredients: ['espresso', 'steamed milk', 'milk foam', 'cinnamon'],
+    description: 'Spicy twist on the classic cappuccino with cinnamon.',
+    img: '/Images/cinnamon cappuccino.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 6.2,
+  },
+  {
+    id: '14',
+    title: 'Choco Affogato',
+    ingredients: ['espresso', 'vanilla ice cream', 'chocolate'],
+    description: 'Affogato enhanced with rich melted chocolate.',
+    img: '/Images/choco affogato.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 7,
+  },
+  {
+    id: '15',
+    title: 'Foamy Americano',
+    ingredients: ['espresso', 'hot water', 'milk foam'],
+    description: 'Classic Americano topped with light foam.',
+    img: '/Images/foamy americano.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 4.4,
+  },
+  {
+    id: '16',
+    title: 'Creamy Cold Brew',
+    ingredients: ['coarse coffee', 'cold water', 'cream'],
+    description: 'Cold brew made smoother with rich cream.',
+    img: '/Images/creamy cold brew.jpg',
+    isInStock: true,
+    combinedIngredientsPrice: 4.7,
+  },
+];
